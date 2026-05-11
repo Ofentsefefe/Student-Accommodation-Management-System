@@ -25,49 +25,18 @@
   <table>
     <tr>
       <td width="50%">
-        <details open>
-          <summary><strong>📋 Project Overview</strong></summary>
-          <ul>
-            <li><a href="#overview">✨ Overview</a></li>
-            <li><a href="#core-benefits">🎯 Core Benefits</a></li>
-            <li><a href="#screenshots">📸 Screenshots</a></li>
-          </ul>
-        </details>
+        <ul>
+          <li><a href="#overview">✨ Overview</a></li>
+          <li><a href="#core-modules">🧭 Core Modules</a></li>
+          <li><a href="#dashboard">📊 Dashboard Overview</a></li>
+        </ul>
       </td>
       <td width="50%">
-        <details open>
-          <summary><strong>🛠️ Technical</strong></summary>
-          <ul>
-            <li><a href="#tech-stack">💻 Tech Stack</a></li>
-            <li><a href="#project-structure">📁 Project Structure</a></li>
-            <li><a href="#getting-started">🚀 Getting Started</a></li>
-          </ul>
-        </details>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <details open>
-          <summary><strong>🧭 Modules</strong></summary>
-          <ul>
-            <li><a href="#student-management">👨‍🎓 Student Management</a></li>
-            <li><a href="#room-management">🛏️ Room Management</a></li>
-            <li><a href="#payment-tracking">💳 Payment Tracking</a></li>
-            <li><a href="#maintenance">🛠️ Maintenance</a></li>
-            <li><a href="#dashboard">📊 Dashboard</a></li>
-          </ul>
-        </details>
-      </td>
-      <td width="50%">
-        <details open>
-          <summary><strong>📄 Documentation</strong></summary>
-          <ul>
-            <li><a href="#environment-variables">🔧 Environment Variables</a></li>
-            <li><a href="#deployment">🚀 Deployment</a></li>
-            <li><a href="#license">📄 License</a></li>
-            <li><a href="#contact">📧 Contact</a></li>
-          </ul>
-        </details>
+        <ul>
+          <li><a href="#tech-stack">🛠️ Tech Stack</a></li>
+          <li><a href="#screenshots">📸 Screenshot Gallery</a></li>
+          <li><a href="#project-structure">📁 Project Structure</a></li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -90,7 +59,7 @@
 
 Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Accommodation Management System** brings all your daily operational tasks into one **sleek, intuitive dashboard**. Designed for administrators and staff, this system transforms how you manage students, rooms, finances, and maintenance.
 
-**Core Benefits:** {#core-benefits}
+**Core Benefits:**
 - 🚀 **Lightning Fast** – Powered by Vite + React
 - 🎯 **Intuitive UI** – Clean, modern interface
 - 📱 **Fully Responsive** – Works on any device
@@ -98,7 +67,7 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
 
 ---
 
-## 🧭 Core Modules {#modules}
+## 🧭 Core Modules {#core-modules}
 
 <div align="center">
   <table>
@@ -106,28 +75,28 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/user-group-man-man.png"/>
         <br/>
-        <strong id="student-management">👨‍🎓 Student Management</strong>
+        <strong>👨‍🎓 Student Management</strong>
         <br/>
         <sub>Add, manage, and assign students to rooms</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/bedroom.png"/>
         <br/>
-        <strong id="room-management">🛏️ Room Management</strong>
+        <strong>🛏️ Room Management</strong>
         <br/>
         <sub>Track availability & occupancy status</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/money-bag.png"/>
         <br/>
-        <strong id="payment-tracking">💳 Payment Tracking</strong>
+        <strong>💳 Payment Tracking</strong>
         <br/>
         <sub>Record payments & manage balances</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/maintenance.png"/>
         <br/>
-        <strong id="maintenance">🛠️ Maintenance</strong>
+        <strong>🛠️ Maintenance</strong>
         <br/>
         <sub>Log & track maintenance requests</sub>
       </td>
