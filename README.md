@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/student-housing.png" alt="Logo" width="80" height="80">
+  <img src="studentAcoom.png" alt="Logo" width="80" height="80">
   <h1>🏠 Student Accommodation Management System</h1>
   <p><strong>Streamline. Simplify. Succeed.</strong></p>
   <p>A modern, high-performance web application designed to manage student housing facilities with elegance and efficiency.</p>
