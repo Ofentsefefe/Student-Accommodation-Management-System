@@ -19,29 +19,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li><a href="#overview">✨ Overview</a></li>
-          <li><a href="#core-modules">🧭 Core Modules</a></li>
-          <li><a href="#dashboard">📊 Dashboard Overview</a></li>
-        </ul>
-      </td>
-      <td width="50%">
-        <ul>
-          <li><a href="#tech-stack">🛠️ Tech Stack</a></li>
-          <li><a href="#screenshots">📸 Screenshot Gallery</a></li>
-          <li><a href="#project-structure">📁 Project Structure</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <div align="center">
@@ -55,7 +32,7 @@
 
 ---
 
-## ✨ Overview {#overview}
+## ✨ Overview
 
 Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Accommodation Management System** brings all your daily operational tasks into one **sleek, intuitive dashboard**. Designed for administrators and staff, this system transforms how you manage students, rooms, finances, and maintenance.
 
@@ -67,7 +44,7 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
 
 ---
 
-## 🧭 Core Modules {#core-modules}
+## 🧭 Core Modules 
 
 <div align="center">
   <table>
@@ -104,7 +81,7 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
   </table>
 </div>
 
-### 📊 Dashboard Overview {#dashboard}
+### 📊 Dashboard Overview 
 Your command center at a glance:
 - **Total Students** – Current occupancy count
 - **Room Occupancy** – Live availability metrics
@@ -113,7 +90,7 @@ Your command center at a glance:
 
 ---
 
-## 🛠️ Tech Stack {#tech-stack}
+## 🛠️ Tech Stack 
 
 <div align="center">
   <table>
@@ -142,7 +119,7 @@ Your command center at a glance:
 
 ---
 
-## 📸 Screenshot Gallery {#screenshots}
+## 📸 Screenshot Gallery
 
 <div align="center">
   <table>
@@ -192,7 +169,7 @@ Your command center at a glance:
 
 ---
 
-## 📁 Project Structure {#project-structure}
+## 📁 Project Structure
 
 ```bash
 src/
