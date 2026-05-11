@@ -116,6 +116,53 @@ Your command center at a glance:
 </div>
 
 ---
+## 📸 Screenshot Gallery
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://via.placeholder.com/400x250?text=Dashboard" width="100%">
+        <br/>
+        <strong>📊 Dashboard</strong>
+        <br/>
+        <sub>Key metrics at a glance</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://via.placeholder.com/400x250?text=Students" width="100%">
+        <br/>
+        <strong>👨‍🎓 Student Management</strong>
+        <br/>
+        <sub>Manage all student records</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://via.placeholder.com/400x250?text=Rooms" width="100%">
+        <br/>
+        <strong>🛏️ Room Management</strong>
+        <br/>
+        <sub>Track occupancy & availability</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://via.placeholder.com/400x250?text=Payments" width="100%">
+        <br/>
+        <strong>💳 Payment Tracking</strong>
+        <br/>
+        <sub>Monitor financial status</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://via.placeholder.com/800x300?text=Maintenance" width="100%">
+        <br/>
+        <strong>🛠️ Maintenance Requests</strong>
+        <br/>
+        <sub>Track issue resolution workflow</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📁 Project Structure
 
