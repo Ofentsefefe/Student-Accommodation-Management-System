@@ -19,6 +19,62 @@
 
 ---
 
+## 📚 Table of Contents
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <details open>
+          <summary><strong>📋 Project Overview</strong></summary>
+          <ul>
+            <li><a href="#overview">✨ Overview</a></li>
+            <li><a href="#core-benefits">🎯 Core Benefits</a></li>
+            <li><a href="#screenshots">📸 Screenshots</a></li>
+          </ul>
+        </details>
+      </td>
+      <td width="50%">
+        <details open>
+          <summary><strong>🛠️ Technical</strong></summary>
+          <ul>
+            <li><a href="#tech-stack">💻 Tech Stack</a></li>
+            <li><a href="#project-structure">📁 Project Structure</a></li>
+            <li><a href="#getting-started">🚀 Getting Started</a></li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <details open>
+          <summary><strong>🧭 Modules</strong></summary>
+          <ul>
+            <li><a href="#student-management">👨‍🎓 Student Management</a></li>
+            <li><a href="#room-management">🛏️ Room Management</a></li>
+            <li><a href="#payment-tracking">💳 Payment Tracking</a></li>
+            <li><a href="#maintenance">🛠️ Maintenance</a></li>
+            <li><a href="#dashboard">📊 Dashboard</a></li>
+          </ul>
+        </details>
+      </td>
+      <td width="50%">
+        <details open>
+          <summary><strong>📄 Documentation</strong></summary>
+          <ul>
+            <li><a href="#environment-variables">🔧 Environment Variables</a></li>
+            <li><a href="#deployment">🚀 Deployment</a></li>
+            <li><a href="#license">📄 License</a></li>
+            <li><a href="#contact">📧 Contact</a></li>
+          </ul>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
@@ -30,11 +86,11 @@
 
 ---
 
-## ✨ Overview
+## ✨ Overview {#overview}
 
 Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Accommodation Management System** brings all your daily operational tasks into one **sleek, intuitive dashboard**. Designed for administrators and staff, this system transforms how you manage students, rooms, finances, and maintenance.
 
-**Core Benefits:**
+**Core Benefits:** {#core-benefits}
 - 🚀 **Lightning Fast** – Powered by Vite + React
 - 🎯 **Intuitive UI** – Clean, modern interface
 - 📱 **Fully Responsive** – Works on any device
@@ -42,7 +98,7 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
 
 ---
 
-## 🧭 Core Modules
+## 🧭 Core Modules {#modules}
 
 <div align="center">
   <table>
@@ -50,28 +106,28 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/user-group-man-man.png"/>
         <br/>
-        <strong>👨‍🎓 Student Management</strong>
+        <strong id="student-management">👨‍🎓 Student Management</strong>
         <br/>
         <sub>Add, manage, and assign students to rooms</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/bedroom.png"/>
         <br/>
-        <strong>🛏️ Room Management</strong>
+        <strong id="room-management">🛏️ Room Management</strong>
         <br/>
         <sub>Track availability & occupancy status</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/money-bag.png"/>
         <br/>
-        <strong>💳 Payment Tracking</strong>
+        <strong id="payment-tracking">💳 Payment Tracking</strong>
         <br/>
         <sub>Record payments & manage balances</sub>
       </td>
       <td align="center" width="25%">
         <img src="https://img.icons8.com/fluency/48/000000/maintenance.png"/>
         <br/>
-        <strong>🛠️ Maintenance</strong>
+        <strong id="maintenance">🛠️ Maintenance</strong>
         <br/>
         <sub>Log & track maintenance requests</sub>
       </td>
@@ -79,7 +135,7 @@ Say goodbye to chaotic spreadsheets and disconnected systems. The **Student Acco
   </table>
 </div>
 
-### 📊 Dashboard Overview
+### 📊 Dashboard Overview {#dashboard}
 Your command center at a glance:
 - **Total Students** – Current occupancy count
 - **Room Occupancy** – Live availability metrics
@@ -88,7 +144,7 @@ Your command center at a glance:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack {#tech-stack}
 
 <div align="center">
   <table>
@@ -116,7 +172,8 @@ Your command center at a glance:
 </div>
 
 ---
-## 📸 Screenshot Gallery
+
+## 📸 Screenshot Gallery {#screenshots}
 
 <div align="center">
   <table>
@@ -164,7 +221,9 @@ Your command center at a glance:
   </table>
 </div>
 
-## 📁 Project Structure
+---
+
+## 📁 Project Structure {#project-structure}
 
 ```bash
 src/
