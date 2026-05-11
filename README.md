@@ -10,7 +10,7 @@
 ## 🔗 Live Demo
 
 <div align="center">
-  <a href="https://your-vercel-app-url.vercel.app" target="_blank">
+  <a href="[https://your-vercel-app-url.vercel.app](https://student-accommodation-app.vercel.app)" target="_blank">
     <img src="https://img.shields.io/badge/🌐_View_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <br/>
